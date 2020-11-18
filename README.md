@@ -5,6 +5,8 @@ Personal Website
 
 [About Me](/AboutMe.md)
 
+[Curriculum Vitae](/images/CV.pdf)
+
 '''
 test code
 '''
