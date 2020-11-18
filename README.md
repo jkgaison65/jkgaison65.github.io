@@ -1,6 +1,8 @@
 # Jeremy Gaison
 Personal Website
 
+![alt text](/images/ProfilePic.jpg?raw=true)
+
 [About Me](/AboutMe.md)
 
 [Curriculum Vitae](https://jkgaison65.github.io/images/gaison_CV.pdf)
