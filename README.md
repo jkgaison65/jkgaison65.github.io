@@ -3,7 +3,7 @@
 # jkgaison65.github.io
 Personal Website
 
-About Me[/AboutMe]
+[About Me](/AboutMe.md)
 
 '''
 test code
