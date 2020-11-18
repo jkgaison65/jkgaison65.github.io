@@ -2,5 +2,6 @@
 title: Jeremy Gaison
 description: > # this means to ignore newlines until "baseurl:"
   <img src="/images/ProfilePic.jpg" alt="Jeremy Gaison" width="250"/>
+  [About Me](/AboutMe.md) [CV](jkgaison65.github.io/images/gaison_CV.pdf)
 
 theme: jekyll-theme-slate
