@@ -1,6 +1,4 @@
-# Markdown
-
-# jkgaison65.github.io
+# Jeremy Gaison
 Personal Website
 
 [About Me](/AboutMe.md)
