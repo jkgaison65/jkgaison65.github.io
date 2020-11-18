@@ -1,5 +1,4 @@
 # Jeremy Gaison
-[Home](README.md)
 
 <img src="/images/ProfilePic.jpg" alt="Jeremy Gaison" width="250"/>
 
