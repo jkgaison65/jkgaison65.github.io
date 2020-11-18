@@ -1,5 +1,5 @@
 # Jeremy Gaison
-Personal Website
+[Home](README.md)
 
 <img src="/images/ProfilePic.jpg" alt="Jeremy Gaison" width="250"/>
 
