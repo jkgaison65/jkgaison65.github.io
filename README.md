@@ -1,7 +1,7 @@
 # Jeremy Gaison
 Personal Website
 
-![alt text](/images/ProfilePic.jpg?raw=true)
+![alt text](/images/ProfilePic.jpg?width=100)
 
 [About Me](/AboutMe.md)
 
