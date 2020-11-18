@@ -5,7 +5,7 @@ Personal Website
 
 [About Me](/AboutMe.md)
 
-[Curriculum Vitae](/images/CV.pdf)
+[Curriculum Vitae](https://jkgaison65.github.io/images/CV.pdf)
 
 '''
 test code
