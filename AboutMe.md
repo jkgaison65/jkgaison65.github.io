@@ -5,4 +5,4 @@ Previously, he grew up in the suburbs of Pittsburgh, PA and later received his B
 
 Currently Jeremy works in the research group of [Prof. Karsten Heeger](https://heegerlab.yale.edu/), with his own research focusing on the [PROSPECT](https://prospect.yale.edu/) reactor antineutrino experiment.
 PROSPECT is a 4-tonne liquid scintillator-based detector that was deployed roughly 10m from the High Flux Isotope Reactor at Oak Ridge National Laboratory.
-It was designed to search for sterile neutrinos, theorectical particles that could be discovered through 
+It was designed with two goals: to search for the oscillation signal of sterile neutrinos and to make a precision measurement of the <sup>235</sup>U fission spectrum.
