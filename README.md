@@ -1,8 +1,6 @@
 # Jeremy Gaison
 Personal Website
 
-# ![alt text](/images/ProfilePic.jpg | width=100)
-
 <img src="/images/ProfilePic.jpg" alt="Jeremy Gaison" width="250"/>
 
 [About Me](/AboutMe.md)
