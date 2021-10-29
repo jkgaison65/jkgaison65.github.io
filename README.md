@@ -7,5 +7,3 @@ Experimental Neutrino Physicist
 
 [Outreach](/Outreach.md)
 
-[Honors / Awards](/Awards.md)
-
