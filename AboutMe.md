@@ -17,4 +17,4 @@ Currently, Jeremy is a part of the [Project 8](https://https://www.project8.org/
 
 (2014) [Goldwater Scholar](https://goldwaterscholarship.gov/)
 
-[Home](/README.md)
+[Home](/README.md) | [Curriculum Vitae](https://jkgaison65.github.io/images/gaison_CV.pdf) | [Outreach](/Outreach.md)
