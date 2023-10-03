@@ -1,6 +1,6 @@
 # About Me
 
-Jeremy Gaison is a Linus Pauling Postdoctoral Fellow at Pacific Northwest National Laboratory where he focuses on developing techniques to make a precision measurements of the properties of fundamental particles. He joined the lab in 2021.
+Jeremy Gaison is a staff physicist at Pacific Northwest National Laboratory where he focuses on developing techniques to make a precision measurements of the properties of fundamental particles. He joined the lab in 2021 as a Linus Pauling Postdoctoral Fellow.
 
 Previously, he grew up in the suburbs of Pittsburgh, PA and later received his B.S. dual majoring in physics and mathematics from Drexel University in Philadelphia, PA.
 Jeremy then received his Ph.D. from Yale University working in the research group of [Prof. Karsten Heeger](https://heegerlab.yale.edu/), with his own research focusing on the [PROSPECT](https://prospect.yale.edu/) reactor antineutrino experiment deployed roughly 10m from the High Flux Isotope Reactor at Oak Ridge National Laboratory.
